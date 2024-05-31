@@ -39,14 +39,14 @@ def sub(x, y):
 
 def mat_func1(x, y):
     if summ(x, y) == 0:
-        print("Error! Can't divide by 0!")
+        print('\"Error: Cannot divide by zero!\"')
     else:
         return div(sub(x, y), summ(x, y))
 
 
 def mat_func2(x, y):
     if x == 0:
-        print("Error! Can't divide by 0!")
+        return "Error: Cannot divide by zero!"
     else:
         return summ(sub(x, div(y, x)), y)
 
