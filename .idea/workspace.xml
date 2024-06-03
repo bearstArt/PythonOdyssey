@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc9e41f8-744c-47ef-a045-d74e5a924dfa" name="Changes" comment="Update Homework_2.py">
+    <list default="true" id="dc9e41f8-744c-47ef-a045-d74e5a924dfa" name="Changes" comment="Update Homework_3.py and create Homework_3.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework_2.py" afterDir="false" />
     </list>
@@ -271,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717151155036</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Update Homework_3.py and create Homework_3.py">
+      <option name="closed" value="true" />
+      <created>1717435566923</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1717435566923</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,6 +313,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework_1" />
     <MESSAGE value="Update Homework_2.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Homework_2.py" />
+    <MESSAGE value="Update Homework_3.py and create Homework_3.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Homework_3.py and create Homework_3.py" />
   </component>
 </project>

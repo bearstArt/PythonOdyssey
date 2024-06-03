@@ -58,4 +58,5 @@ def calc(op, x, y):
 oper = input("Enter an arithmetic operator. (+, -, /, *):\n")
 num_1 = int(input("Enter the first number:\n"))
 num_2 = int(input("Enter the second number:\n"))
+print("Result: ")
 print(calc(oper, num_1, num_2))

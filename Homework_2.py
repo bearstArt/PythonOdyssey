@@ -56,4 +56,3 @@ num2 = int(input("Please enter the number 'y': "))
 
 print(f"\nVariant 1: (x − y) / (x + y) = {mat_func1(num1, num2)}")
 print(f"Variant 2: x − (y / x) + y = {mat_func2(num1, num2)}")
-
