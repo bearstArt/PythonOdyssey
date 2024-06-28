@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc9e41f8-744c-47ef-a045-d74e5a924dfa" name="Changes" comment="Update Homework_2.py and Homework_3.py" />
+    <list default="true" id="dc9e41f8-744c-47ef-a045-d74e5a924dfa" name="Changes" comment="Update Homework_4.py">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework_4.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,15 +71,17 @@
     "Python.Homework_2.executor": "Run",
     "Python.Homework_3.executor": "Run",
     "Python.Homework_4.executor": "Run",
+    "Python.Homework_5.executor": "Run",
+    "Python.Homework_6.executor": "Run",
     "Python.main.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/artur/Documents/PyProjects/Python_Odyssey",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "/home/artur/Documents/PyProjects/Old_Python",
+    "settings.editor.selected.configurable": "preferences.rainbow.brackets.disable.when"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Homework_4">
+  <component name="RunManager">
     <configuration name="Homework_1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python_Odyssey" />
       <option name="ENV_FILES" value="" />
@@ -165,6 +170,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Homework_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Odyssey" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Odyssey" />
       <option name="ENV_FILES" value="" />
@@ -189,8 +216,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Homework_4" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.Homework_5" />
+        <item itemvalue="Python.Homework_4" />
         <item itemvalue="Python.Homework_3" />
         <item itemvalue="Python.Homework_2" />
       </list>
@@ -199,7 +227,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
@@ -340,7 +368,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717682272809</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Create Homework_4.py">
+      <option name="closed" value="true" />
+      <created>1717682432333</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1717682432333</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Update Homework_4.py">
+      <option name="closed" value="true" />
+      <created>1717682523235</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1717682523235</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -376,6 +420,8 @@
     <MESSAGE value="Update Homework_2.py" />
     <MESSAGE value="Update Homework_3.py and create Homework_3.py" />
     <MESSAGE value="Update Homework_2.py and Homework_3.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Homework_2.py and Homework_3.py" />
+    <MESSAGE value="Create Homework_4.py" />
+    <MESSAGE value="Update Homework_4.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Homework_4.py" />
   </component>
 </project>
