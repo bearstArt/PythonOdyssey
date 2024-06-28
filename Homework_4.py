@@ -38,4 +38,3 @@ for char in text:
         count_vowels += 1
 print("Number of consonants:", count_char - count_vowels)
 print("Number of vowels:", count_vowels)
-text.isdecimal()
