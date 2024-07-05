@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc9e41f8-744c-47ef-a045-d74e5a924dfa" name="Changes" comment="Update Homework_4.py&#10;Create Homework_5.py and Homework.py" />
+    <list default="true" id="dc9e41f8-744c-47ef-a045-d74e5a924dfa" name="Changes" comment="Update Homework_4.py&#10;Create Homework_5.py and Homework.py">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework_6.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,23 +65,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Homework_1.executor": "Run",
-    "Python.Homework_2.executor": "Run",
-    "Python.Homework_3.executor": "Run",
-    "Python.Homework_4.executor": "Run",
-    "Python.Homework_5.executor": "Run",
-    "Python.Homework_6.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/artur/Documents/PyProjects/Old_Python",
-    "settings.editor.selected.configurable": "preferences.rainbow.brackets.disable.when"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Homework_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/artur/Documents/PyProjects/Old_Python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.rainbow.brackets.disable.when&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python.Homework_1">
     <configuration name="Homework_1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python_Odyssey" />
       <option name="ENV_FILES" value="" />
