@@ -89,11 +89,11 @@ class CheckingAccount(Account):
         return acc_type
 
 
-c = CheckingAccount(12, 0, 0)
-
-c.deposit(100.00)
-c.withdraw(25)
-c.show_balance()
+# c = CheckingAccount(12, 0, 0)
+#
+# c.deposit(100.00)
+# c.withdraw(25)
+# c.show_balance()
 
 
 
